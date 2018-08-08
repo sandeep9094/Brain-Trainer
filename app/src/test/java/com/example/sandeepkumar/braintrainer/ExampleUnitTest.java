@@ -1,4 +1,4 @@
-package com.example.sandeepkumar.braintimer;
+package com.example.sandeepkumar.braintrainer;
 
 import org.junit.Test;
 

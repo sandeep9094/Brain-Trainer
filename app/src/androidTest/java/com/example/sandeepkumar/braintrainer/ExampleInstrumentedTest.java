@@ -1,4 +1,4 @@
-package com.example.sandeepkumar.braintimer;
+package com.example.sandeepkumar.braintrainer;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
